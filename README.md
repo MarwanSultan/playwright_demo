@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# playwright_demo
+Playwright Demo using python testing against Wikipedia.com
+=======
 # Playwright Demo Automation Testing
 
 ## Overview
@@ -212,3 +216,4 @@ For any issues or feedback, please open an issue in the [GitHub repository](http
 ## License
 
 This project is licensed under the MIT License.
+>>>>>>> playwright_demo
