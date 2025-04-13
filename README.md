@@ -1,7 +1,3 @@
-To run your Playwright tests using **pytest**, you'll need to integrate Playwright with pytest, as Playwright typically works with its own test runner. Here's how you can modify your README file to include instructions on running the tests using pytest.
-
----
-
 # Playwright Demo Automation Testing
 
 ## Overview
